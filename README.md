@@ -1,2 +1,2 @@
-# VortexSearch
+# Vortex Search
 Vortex Search Algorithm
