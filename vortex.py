@@ -4,7 +4,6 @@ import numpy as np
 import copy
 import scipy.special as ss
 import matplotlib.pyplot as plt
-import matplotlib.patches as ptc
 
 import callFunction
 
